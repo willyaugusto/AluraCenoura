@@ -13,6 +13,10 @@
     </description>
 
     <author href="https://www.linkedin.com/in/willyaugusto/" email="willyaugusto@gmail.org">
-        Sérgio Lopes
+        Willy Augusto
     </author>
+
+    <preference name="orientation" value="portrait" />
+
+    <preference name="permissions" value="none" />
 </widget>
