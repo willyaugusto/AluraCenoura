@@ -4,13 +4,15 @@
         id="org.willyaugusto.cenourapp"
         version="1.0.0">
 
-    <name>
-        Só de Cenoura
-    </name>
+    <name>Só de Cenoura</name>
+    
+    <icon src="images/icon.png" />
 
-    <description>
-        Menu do restaurante Só de Cenoura.
-    </description>
+    <description>Menu do restaurante Só de Cenoura.</description>
+
+    <plugin name="cordova-plugin-splashscreen" />
+    <splash src="images/splash.png" />
+
 
     <author href="https://www.linkedin.com/in/willyaugusto/" email="willyaugusto@gmail.org">
         Willy Augusto
