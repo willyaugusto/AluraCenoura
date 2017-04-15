@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id="org.sergiolopes.cenourapp"
+        id="org.willyaugusto.cenourapp"
         version="1.0.0">
 
     <name>
@@ -12,7 +12,7 @@
         Menu do restaurante Só de Cenoura.
     </description>
 
-    <author href="http://sergiolopes.org" email="qualquer@sergiolopes.org">
+    <author href="https://www.linkedin.com/in/willyaugusto/" email="willyaugusto@gmail.org">
         Sérgio Lopes
     </author>
 </widget>
